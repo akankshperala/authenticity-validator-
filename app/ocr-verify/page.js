@@ -27,8 +27,8 @@ export default function OCRVerify() {
         // Extract fields
         const nameOCRMatch = cleanedText.match(/NAME\s*[©:|]?\s*([A-Z ]+)/i);
         const courseOCRMatch = cleanedText.match(/EXAMINATION\s*©?\s*([A-Z0-9 ().]+)/i);
-        const sgpaOCRMatch = cleanedText.match(/SGPA\s*[:=]?\s*([0-9.]+)/i);
-        const cgpaOCRMatch = cleanedText.match(/CGPA\s*[:=]?\s*([0-9.]+)/i);
+        const sgpaOCRMatch = cleanedText.match(/\(SGPA\)\s*©\s*([0-9.]+)/i);
+        const cgpaOCRMatch = cleanedText.match(/\(CGPA\)\s*[:]?\s*([0-9.]+)/i);
 
         const nameOCR = nameOCRMatch ? nameOCRMatch[1].trim() : "";
         const courseOCR = courseOCRMatch ? courseOCRMatch[1].trim() : "";
@@ -41,7 +41,7 @@ export default function OCRVerify() {
           const courseScore = stringSimilarity.compareTwoStrings(courseOCR, c.course.toUpperCase());
           const sgpaValid = sgpaOCR && Math.abs(sgpaOCR - parseFloat(c.sgpa)) < 0.05;
           const cgpaValid = cgpaOCR && Math.abs(cgpaOCR - parseFloat(c.cgpa)) < 0.05;
-          return nameScore > 0.7 && courseScore > 0.7 && sgpaValid && cgpaValid;
+          return nameScore > 0.7 && courseScore > 0.3 && sgpaValid && cgpaValid;
         });
 
         if (found) {
