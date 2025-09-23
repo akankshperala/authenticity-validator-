@@ -19,6 +19,23 @@
       "username": "keerthi",
       "password": "$2b$10$EGzJ8qdvPiDN7bVQBT4ES..oug4HYyLhv3nM6lxtVKIa12EYESExK",
       "role": "institution_admin"
+    },
+    {
+      "username": "varunjoshi",
+      "password": "varunjoshi",
+      "role": "user"
+    },
+    {
+      "username": "12345678",
+      "password": "$2b$10$hlVo3OpeJ5qvz6tKNkWah.7ZW427EYgPZNQMKdCQ5iQhs9JMSHSwG",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "123456",
+      "password": "$2b$10$PtJrJz5T/Xx8yb5S38HOYus4HS9rsDRs/MK4FJ7ppAINgKlFPIgee",
+      "role": "user",
+      "university": null
     }
   ]
 }

@@ -44,6 +44,96 @@
       "sgpa": "10",
       "cgpa": "9.95",
       "result": "PASS"
+    },
+    {
+      "id": "CB 88831",
+      "rollNo": "1.60124E+11",
+      "name": "PERALA AKANKSH",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) III Sem (MAIN) NOV 2024 (R22)",
+      "sgpa": "8.62",
+      "cgpa": "8.98",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 72424",
+      "rollNo": "1.60124E+11",
+      "name": "J VARUN",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) I Sem (MAIN) JAN 2024 (R22)",
+      "sgpa": "9.25",
+      "cgpa": "9.25",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81942",
+      "rollNo": "1.60124E+11",
+      "name": "J VARUN",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "9.43",
+      "cgpa": "9.34",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81921",
+      "rollNo": "1.60124E+11",
+      "name": "PITTA SARIKA REDDY",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "9.93",
+      "cgpa": "9.96",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81915",
+      "rollNo": "1.60124E+11",
+      "name": "KEERTHI REDDY GANGU",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "10",
+      "cgpa": "9.95",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 88831",
+      "rollNo": "1.60124E+11",
+      "name": "PERALA AKANKSH",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) III Sem (MAIN) NOV 2024 (R22)",
+      "sgpa": "8.62",
+      "cgpa": "8.98",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 72424",
+      "rollNo": "1.60124E+11",
+      "name": "J VARUN",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) I Sem (MAIN) JAN 2024 (R22)",
+      "sgpa": "9.25",
+      "cgpa": "9.25",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81942",
+      "rollNo": "1.60124E+11",
+      "name": "J VARUN",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "9.43",
+      "cgpa": "9.34",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81921",
+      "rollNo": "1.60124E+11",
+      "name": "PITTA SARIKA REDDY",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "9.93",
+      "cgpa": "9.96",
+      "result": "PASS"
+    },
+    {
+      "id": "CB 81915",
+      "rollNo": "1.60124E+11",
+      "name": "KEERTHI REDDY GANGU",
+      "course": "B.E (COMPUTER SCLENCE AND ENGG) II Sem (MAIN) JUN 2024 (R22)",
+      "sgpa": "10",
+      "cgpa": "9.95",
+      "result": "PASS"
     }
   ]
 }
