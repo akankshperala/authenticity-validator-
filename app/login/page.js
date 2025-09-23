@@ -27,7 +27,7 @@ export default function LoginPage() {
       if (data.role === "user") {
         router.push("/certificateVerifier");
       } else if (data.role === "institution_admin") {
-        router.push("/adminDashboard");
+        router.push("/institution-dashboard");
       } else {
         router.push("/");
       }
