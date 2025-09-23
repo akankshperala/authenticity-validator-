@@ -7,5 +7,14 @@
     "sgpa": "8.62",
     "cgpa": "8.98",
     "result": "PASS"
+  },
+  {
+    "id": "CB81915",
+    "rollNo": "160123733076",
+    "name": "KEERTHI REDDY",
+    "course": "B.E (COMPUTER SCLENCE AND ENGG) III Sem (MAIN) NOV 2024 (R22)",
+    "sgpa": "10.00",
+    "cgpa": "9.90",
+    "result": "PASS"
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "admin1",
+      "password": "$2b$10$HASHEDPASSWORD",
+      "role": "institution_admin"
+    },
+    {
+      "username": "user1",
+      "password": "$2b$10$HASHEDPASSWORD",
+      "role": "user"
+    },
+    {
+      "username": "userHarsh",
+      "password": "$2b$10$WcrXk2urDDlZikebtnAri.1bVyGEIWHmVafNdhK1j5WOActK34aUO",
+      "role": "user"
+    },
+    {
+      "username": "keerthi",
+      "password": "$2b$10$EGzJ8qdvPiDN7bVQBT4ES..oug4HYyLhv3nM6lxtVKIa12EYESExK",
+      "role": "institution_admin"
+    }
+  ]
+}
