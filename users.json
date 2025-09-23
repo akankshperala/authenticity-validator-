@@ -19,6 +19,30 @@
       "username": "keerthi",
       "password": "$2b$10$EGzJ8qdvPiDN7bVQBT4ES..oug4HYyLhv3nM6lxtVKIa12EYESExK",
       "role": "institution_admin"
+    },
+    {
+      "username": "akanksh",
+      "password": "$2b$10$bY1dry3h/c44pa7rmx6F0OH77cAJLBbCUTyWdV4Ev3DYMhjm8Cu2q",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "akankshp",
+      "password": "$2b$10$joACcbIbw4dkX7SofrG5k.fPf5pICRwigR27S/7mCwrgQhHrxsApG",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "Akanksh",
+      "password": "$2b$10$YqFwT3NL3cOIiSWTAkqAHuFs7ZQtofXqDh520oSynncnpTpjC/PLi",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "akank",
+      "password": "$2b$10$HC3yPBNKuK.h34Ef031rp.OOqsf.T6GL6GkSWhI.RV5lk6WEXOe0O",
+      "role": "user",
+      "university": null
     }
   ]
 }
