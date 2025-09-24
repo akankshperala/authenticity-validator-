@@ -36,6 +36,36 @@
       "password": "$2b$10$PtJrJz5T/Xx8yb5S38HOYus4HS9rsDRs/MK4FJ7ppAINgKlFPIgee",
       "role": "user",
       "university": null
+    },
+    {
+      "username": "104",
+      "password": "$2b$10$gJIkPxGcw4gb2msKshmLxunEeKLJFWa32Zx6BFOf4a4W2Qm7Laxva",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "124",
+      "password": "$2b$10$9LVWaq99SdjprmyEwOnnV.yOHSczmIBC/ktKB.7VSH6WXeucsf/Bq",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "123",
+      "password": "$2b$10$6Bv.3x1322AoMCpjvwKquONWbDmVW5XJkA9.EGZNokFRjdI09uWGC",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "1234",
+      "password": "$2b$10$/2dhJmhEMjiWYmNB2jz4qO2t/9eaDHocLmM7taaGuVd4mugRmkmCK",
+      "role": "user",
+      "university": null
+    },
+    {
+      "username": "12345",
+      "password": "$2b$10$gRSC2DDD..uRi7RrlJCHb.nGz6hjqZhtLVoAK4z/YO2lsaVEks7P2",
+      "role": "user",
+      "university": null
     }
   ]
 }

@@ -68,6 +68,17 @@ export default function LoginPage() {
         </button>
 
         {error && <p className="text-red-600 text-sm">{error}</p>}
+
+        {/* 🔹 Signup redirect */}
+        <p className="text-sm text-center mt-3">
+          Don’t have an account?{" "}
+          <span
+            onClick={() => router.push("/signup")}
+            className="text-blue-600 cursor-pointer hover:underline"
+          >
+            Signup
+          </span>
+        </p>
       </form>
     </div>
   );

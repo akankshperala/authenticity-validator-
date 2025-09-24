@@ -28,7 +28,7 @@ export default function SignupPage() {
       setError(data.error || "Signup failed");
     } else {
       setSuccess("Signup successful! Redirecting to login...");
-      setTimeout(() => router.push("/login"), 1500);
+      setTimeout(() => router.push("/login"), 1500); // ✅ Corrected path
     }
   };
 
@@ -87,6 +87,17 @@ export default function SignupPage() {
 
         {error && <p className="text-red-600 text-sm">{error}</p>}
         {success && <p className="text-green-600 text-sm">{success}</p>}
+
+        {/* 🔹 Back to Login link */}
+        <p className="text-sm text-center mt-3">
+          Already have an account?{" "}
+          <span
+            onClick={() => router.push("/login")}
+            className="text-green-600 cursor-pointer hover:underline"
+          >
+            Login
+          </span>
+        </p>
       </form>
     </div>
   );
